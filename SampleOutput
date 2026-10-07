@@ -1,0 +1,47 @@
+Bank Account Demo
+
+Initial balances:
+Kundiso: 1000.00
+Tadiwa: 500.00
+Tawanda: 300.00
+Ruva: 100.00
+Maja: 300.00
+Makanaka: 100.00
+
+Withdraw 250 from each account:
+
+Account: Kundiso
+Savings withdrawal successful.
+Balance after withdrawal: 750.00
+Interest added: 3.75
+Balance after month-end: 753.75
+
+Account: Tadiwa
+Current account withdrawal successful.
+Balance after withdrawal: 250.00
+Monthly fee deducted: 5.00
+Balance after month-end: 245.00
+
+Account: Tawanda
+Withdrawal rejected. Minimum balance must be maintained.
+Balance after withdrawal: 300.00
+Interest added: 1.50
+Balance after month-end: 301.50
+
+Account: Ruva
+Withdrawal successful. Account is in overdraft.
+Balance after withdrawal: -150.00
+Monthly fee deducted: 5.00
+Balance after month-end: -155.00
+
+Account: Maja
+Withdrawal rejected. Minimum balance must be maintained.
+Balance after withdrawal: 300.00
+Interest added: 1.50
+Balance after month-end: 301.50
+
+Account: Makanaka
+Withdrawal successful. Account is in overdraft.
+Balance after withdrawal: -150.00
+Monthly fee deducted: 5.00
+Balance after month-end: -155.00
